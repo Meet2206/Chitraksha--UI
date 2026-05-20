@@ -1,0 +1,15 @@
+{
+  "processing_timestamp": "2025-12-07T14:05:53.159382",
+  "total_documents": 1675,
+  "total_chunks": 2908,
+  "embedding_dimension": 384,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "chunks_by_source": {
+    "hf_chatbot": 992,
+    "kaggle_mental_health": 1386,
+    "pdf": 530
+  },
+  "avg_chunk_length": 287
+}

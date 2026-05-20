@@ -1,0 +1,16 @@
+{
+  "created_timestamp": "2025-12-07T14:42:28.356576",
+  "total_chunks": 2908,
+  "total_embeddings": 2908,
+  "embedding_dimension": 384,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "index_type": "FAISS IndexFlatL2",
+  "crisis_keywords_count": 33,
+  "crisis_detection_enabled": true,
+  "supported_contexts": [
+    "general",
+    "student",
+    "athlete",
+    "professional"
+  ]
+}

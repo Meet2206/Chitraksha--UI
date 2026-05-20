@@ -1,0 +1,11 @@
+{
+  "ingestion_timestamp": "2025-12-07T00:43:34.486696",
+  "total_documents": 842,
+  "sources": {
+    "pdf": 9,
+    "kaggle_mental_health": 661,
+    "hf_chatbot": 172
+  },
+  "total_characters": 510252,
+  "avg_characters": 606.0
+}
